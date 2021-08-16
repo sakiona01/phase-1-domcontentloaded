@@ -1,1 +1,3 @@
-// Your code goes here
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('After DOM Loaded')
+})
